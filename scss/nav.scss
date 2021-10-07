@@ -1,0 +1,13 @@
+nav {
+  height: 50px;
+  background-color: beige;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  margin: 10px;
+  a {
+    color: darkcyan;
+    text-decoration: none;
+    font-size: 25px;
+  }
+}
